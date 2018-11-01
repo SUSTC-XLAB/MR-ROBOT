@@ -4,7 +4,7 @@
         【具有自主版权的项目效果图 或者 实物图】
 
 ### 设计文档 ###
-[参见](https://github.com/SUSTC-XLAB/TEST//wiki)
+[参见](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki)
 
 ## 快速开始
      【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
@@ -17,10 +17,9 @@
     
 ### Change log ###
 
-[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
- 
+[Releases](https://github.com/SUSTC-XLAB/MR-ROBOT/releases)
+[项目发展历程](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/History) 
     
 ### 参考资料 ###
-
-[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
- 
+[Reference](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/Reference)
+[参考文献URL](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/参考文献URL)
