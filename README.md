@@ -25,3 +25,6 @@
 [Reference](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/Reference)
   
 [参考文献URL](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/参考文献URL)
+## 背景资料：
+维护人：张年
+github ID:LittleNian
