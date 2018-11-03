@@ -21,7 +21,7 @@
    
 [项目发展历程](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/History) 
 
-##学习资料
+### 学习资料 ###
 [Learning](https://github.com/SUSTC-XLAB/MR-ROBOT/wiki/Learning)
     
 ### 参考资料 ###
